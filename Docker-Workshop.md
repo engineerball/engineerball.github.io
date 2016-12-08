@@ -420,29 +420,3 @@ $ docker push $USER/my-php-example
 ```
 
 
-***
-# Jenkins Pipelines
-## 1. Old ways
-## 2. New ways
-## 3. Requirements
-## 4. Jenkins Job DSL Plug-In (Groovy Scripts)
-1. Whats?
-2. Example
-
-## Pipelines as a Code
-
-## Jenkins Jobs DSL Step
-1. Node
-2. Stage
-3. Checkout
-4. Execute
-5. Publishes
-
-## Pipelines examples
-1. Working with files
-2. Pass files between stage
-3. Parallel Execution of Steps
-4. Use existing plugins in pipeline
-5. Manual steps - confirmation dialog
-
-## Let's do it
