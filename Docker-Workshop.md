@@ -149,6 +149,8 @@
     -f, --force      Force removal of the image
   ```
 
+[Install docker](https://gist.github.com/engineerball/257fbfac796be900bf5171b307a062c1)
+
 ## 4. Fundamental Dockerfile
 
 0. FROM
