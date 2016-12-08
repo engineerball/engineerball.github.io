@@ -101,6 +101,7 @@
     -i, --interactive    Keep STDIN open even if not attached
     -t, --tty            Allocate a pseudo-TTY
   ```
+  
 5. ``` docker logs ```
   ```
   Usage:  docker logs [OPTIONS] CONTAINER
@@ -109,6 +110,7 @@
   Options:
     -f, --follow         Follow log output
   ```
+  
 6. ```docker commit```
   ```
   Usage:  docker commit [OPTIONS] CONTAINER [REPOSITORY[:TAG]]
@@ -117,6 +119,7 @@
   Options:
     -m, --message string   Commit message
   ```
+  
 7. ```docker images```
   ```
   Usage:  docker images [OPTIONS] [REPOSITORY[:TAG]
@@ -124,11 +127,13 @@
   Options:
     -a, --all             Show all images (default hides intermediate images)
   ```
+  
 7. ```docker start```
   ```
   Usage:  docker start [OPTIONS] CONTAINER [CONTAINER...]
   Start one or more stopped containers
   ```
+  
 8. ```docker stop```
   ```
   Usage:  docker stop [OPTIONS] CONTAINER [CONTAINER...]
@@ -141,6 +146,7 @@
   Options:
     -f, --force     Force the removal of a running container (uses SIGKILL)
   ```
+  
 10. ```docker rmi```
   ```
   Usage:  docker rmi [OPTIONS] IMAGE [IMAGE...]
