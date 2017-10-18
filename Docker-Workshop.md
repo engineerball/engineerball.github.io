@@ -40,7 +40,7 @@
 
     Wraps an application’s software into an invisible box with everything the application needs to run. That includes the operating system, application code, runtime, system tools, system libraries, and etc. Docker containers are built off Docker images.
 
-    ![alt text](https://cdn-images-1.medium.com/max/800/1*hZgRPWerZVbaGT8jJiJZVQ.png)
+![alt text](https://cdn-images-1.medium.com/max/800/1*hZgRPWerZVbaGT8jJiJZVQ.png)
 
   7. Volumes
 
