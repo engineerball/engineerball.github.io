@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/engineerball" target="blank"><img src="https://img.shields.io/twitter/follow/engineerball?logo=twitter&style=for-the-badge" alt="engineerball" /></a> </p>
 
-- 🔭 I’m currently working on [SGD](https://sgd.co.th)
+- 🔭 I’m currently working on [AIQUBE](https://aiqube.co)
 
 - 👨‍💻 All of my projects are available at [https://engineerball.com](https://engineerball.com)
 
 - 📝 I regularly write articles on [https://medium.com/@engineerball](https://medium.com/@engineerball)
 
-- 💬 Ask me about **Docker, Kubernetes, DevOps**
+- 💬 Ask me about **Docker, Kubernetes, DevOps, GitOps, MLOps**
 
 - 📫 How to reach me **ball@engineerball.com**
 
